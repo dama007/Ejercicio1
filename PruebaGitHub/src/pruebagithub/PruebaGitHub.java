@@ -33,7 +33,10 @@ public class PruebaGitHub {
         else if(genero.equalsIgnoreCase("M")){
             pesoideal=altura-120;
         }
-        System.out.println("Tu peso ideal es " + pesoideal);
+        System.out.println("Tu peso ideal es: " + pesoideal);
+        System.out.println("Tu peso ideal es: " + pesoideal);
+        System.out.println("Tu peso ideal es: " + pesoideal);
+        System.out.println("Tu peso ideal es: " + pesoideal);
     }
     
 }
