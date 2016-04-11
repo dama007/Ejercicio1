@@ -34,9 +34,9 @@ public class PruebaGitHub {
             pesoideal=altura-120;
         }
         System.out.println("Tu peso ideal es: " + pesoideal);
-        System.out.println("Tu peso ideal es: " + pesoideal);
-        System.out.println("Tu peso ideal es: " + pesoideal);
-        System.out.println("Tu peso ideal es: " + pesoideal);
+        System.out.println(pesoideal);
+        System.out.println(pesoideal);
+        System.out.println(pesoideal);
     }
     
 }
